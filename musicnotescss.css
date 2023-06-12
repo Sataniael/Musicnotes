@@ -1,9 +1,12 @@
-body
-{
+.upperhalf body{
 	background-color: #242423;
+}
+.upperhalf p{
 	color: #ffffff;
 }
-table{
+.bottomhalf body{
 	background-color: #242423;	
-	color: #ffffff;
+}
+.bottomhalf p{
+	color: #ffffff;	
 }
