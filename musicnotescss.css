@@ -1,4 +1,5 @@
-.notesdiv p{
-	line-height: 2px;
-	height: 2px;
+body
+{
+	background-color: #242423;
+	text-color: white;
 }
