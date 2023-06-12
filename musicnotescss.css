@@ -1,12 +1,12 @@
 .upperhalf body{
-	background-color: #242423;
+	background-color: #242423 !important;
 }
 .upperhalf p{
-	color: #ffffff;
+	color: #ffffff !important;
 }
 .bottomhalf body{
-	background-color: #242423;	
+	background-color: #242423 !important;	
 }
 .bottomhalf p{
-	color: #ffffff;	
+	color: #ffffff !important;	
 }
